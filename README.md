@@ -1,8 +1,9 @@
 # LACRIMALit-online
  
-Attribution 4.0 International (CC BY 4.0) 2022 Maria Papadopoulou, Christophe Roche
+LICENCE: Attribution 4.0 International (CC BY 4.0) 2022 Maria Papadopoulou, Christophe Roche
+https://creativecommons.org/licenses/by/4.0/
 
-For the LACRIMALit Project 
+For the <b> LACRIMALit </b> Project  
 Principal Investigator: Eleni-Melina Tamiolaki
 
 
