@@ -1,17 +1,6 @@
 # LACRIMALit-online
  
- 
-LACRIMALit Ontology for Crisis by <b> Maria Papadopoulou and Christophe Roche </b>
-Université Savoie-Mont Blanc - <b> Ontology for Digital Humanities http://o4dh.com/ </b>
-
-<b> LICENCE: Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/ 2022 
-
-
-The ontology was build for the <b> LACRIMALit </b> Project
-
 <b> LACRIMALit: Leaders and Crisis Management in Ancient Greek Literature </b>  (2022-2025)
-
-<b> Funded by </b> the Hellenic Foundation for Research and Innovation (H.F.R.I)
 
 <b> Principal Investigator </b>: <b> Melina Tamiolaki </b>, Dept. of Philology UoC
 
@@ -20,6 +9,17 @@ The ontology was build for the <b> LACRIMALit </b> Project
 <b> Collaborating Institution </b>: University of Crete
 
 <b> Project website </b>: https://www.ims.forth.gr/en/project/view?id=219 </b>
+
+Funded by the Hellenic Foundation for Research and Innovation (H.F.R.I)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The LACRIMALit Ontology of Crisis was build for the <b> LACRIMALit </b> Project by <b> Maria Papadopoulou </b> and <b> Christophe Roche </b>
+
+Université Savoie-Mont Blanc - <b> Ontology for Digital Humanities http://o4dh.com/ </b>
+
+<b> LICENCE: Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/ 2022 
+
 
 <head>
 
@@ -75,4 +75,4 @@ The ontology was build for the <b> LACRIMALit </b> Project
 <a href='http://code.google.com/p/ontology-browser/' target='_blank'>OWL HTML inside</a>
 </p>
 </body>
-</html>
+
