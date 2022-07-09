@@ -2,13 +2,14 @@
  
 Attribution 4.0 International (CC BY 4.0) 2022 Maria Papadopoulou, Christophe Roche
 
-For the LACRIMALit Project, Principal Investigator: Eleni-Melina Tamiolaki
+For the LACRIMALit Project 
+Principal Investigator: Eleni-Melina Tamiolaki
 
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html">
 <html>
 <head>
-<title>Ontology Browser</title>
+
 <meta http-equiv='content-type' content='text/html;charset=UTF-8'>
 <link rel='stylesheet' href='../css/default.css' type='text/css' />
 </head>
