@@ -3,9 +3,10 @@
 LICENCE: Attribution 4.0 International (CC BY 4.0) 2022 Maria Papadopoulou, Christophe Roche
 https://creativecommons.org/licenses/by/4.0/
 
-For the <b> LACRIMALit </b> Project  
-Principal Investigator: Eleni-Melina Tamiolaki
-
+For the <b> LACRIMALit https://www.ims.forth.gr/en/project/view?id=219 </b> Project  
+Principal Investigator: Melina Tamiolaki, Dept. of Philology UoC
+Host Institution: IMS/FORTH
+Collaborating Institution: University of Crete
 
 <!DOCTYPE html">
 <html>
