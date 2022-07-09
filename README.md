@@ -21,13 +21,6 @@ The ontology was build for the <b> LACRIMALit </b> Project
 
 <b> Project website </b>: https://www.ims.forth.gr/en/project/view?id=219 </b>
 
-<meta http-equiv='content-type' content='text/html;charset=UTF-8'>
-<link rel='stylesheet' href='../css/default.css' type='text/css' />
-</head>
-
-</p>
-</body>
-
 <head>
 
 <meta http-equiv='content-type' content='text/html;charset=UTF-8'>
