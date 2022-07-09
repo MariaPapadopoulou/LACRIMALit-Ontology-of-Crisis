@@ -1,7 +1,8 @@
 # LACRIMALit-online
  
-LICENCE: Attribution 4.0 International (CC BY 4.0) 2022 Maria Papadopoulou, Christophe Roche
-https://creativecommons.org/licenses/by/4.0/
+LICENCE: Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/ 2022  
+Maria Papadopoulou and Christophe Roche 
+Ontology for Digital Humanities
 
 For the <b> LACRIMALit https://www.ims.forth.gr/en/project/view?id=219 </b> Project  
 Principal Investigator: Melina Tamiolaki, Dept. of Philology UoC
@@ -16,44 +17,7 @@ Collaborating Institution: University of Crete
 <link rel='stylesheet' href='../css/default.css' type='text/css' />
 </head>
 
-<body>
 
-<div id='tabs'>
-<a href='../ontologies/index.html' class='' >Ontologies</a>
-<a href='index.html' class='' >Classes</a>
-<a href='../objectproperties/index.html' class='' >Object Properties</a>
-<a href='../dataproperties/index.html' class='' >Data Properties</a>
-<a href='../annotationproperties/index.html' class='' >Annotation Properties</a>
-<a href='../individuals/index.html' class='' >Individuals</a>
-<a href='../datatypes/index.html' class='' >Datatypes</a>
-<a href='../cloud/' class='' >Clouds</a>
-</div> <!-- tabs -->
-
-
-<div class='summary'><h2>Class: Financial_Crisis</h2>
-
-<div id='annotations_(1)'>
-<h4>Annotations (1)</h4>
-<div class='codebox'>
-<ul>
-<li class="asserted"><a href="../annotationproperties/label___653429740.html" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#label">rdfs:label</a> <span class='literal'>"financial crisis"</span> <span style='color: black;'>@en</span></li>
-</ul>
-</div>
-</div><!-- annotations (1) -->
-
-
-<div id='superclasses_(1)'>
-<h4>Superclasses (1)</h4>
-<div class='codebox'>
-<ul>
-<li class="asserted"><a href="Crisis___1836361262.html" class='Class' title="http://ontologia.fr/OTB/CrisisKM4DHV2#Crisis">Crisis</a></li>
-</ul>
-</div>
-</div><!-- superclasses (1) -->
-
-</div> <!-- summary -->
-<p class='footer'>
-<a href='http://code.google.com/p/ontology-browser/' target='_blank'>OWL HTML inside</a>
 </p>
 </body>
 </html>
