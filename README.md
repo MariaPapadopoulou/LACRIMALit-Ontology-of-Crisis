@@ -14,7 +14,7 @@ Funded by the Hellenic Foundation for Research and Innovation (H.F.R.I)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The LACRIMALit Ontology of Crisis was build for the <b> LACRIMALit </b> Project 
+The LACRIMALit Ontology of Crisis was built for the <b> LACRIMALit </b> Project 
          by <b> Maria Papadopoulou </b> and <b> Christophe Roche </b>
 
 Université Savoie-Mont Blanc - <b> Ontology for Digital Humanities http://o4dh.com/ </b>
