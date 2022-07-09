@@ -8,7 +8,7 @@
 
 <b> Collaborating Institution </b>: University of Crete
 
-<b> Project website </b>: https://www.ims.forth.gr/en/project/view?id=219 </b>
+<b> Project website : https://www.ims.forth.gr/en/project/view?id=219 </b>
 
 Funded by the Hellenic Foundation for Research and Innovation (H.F.R.I)
 
