@@ -70,10 +70,3 @@ Université Savoie-Mont Blanc - <b> Ontology for Digital Humanities http://o4dh.
 </ul>
 </div>
 </div><!-- contents -->
-
-
-<p class='footer'>
-<a href='http://code.google.com/p/ontology-browser/' target='_blank'>OWL HTML inside</a>
-</p>
-</body>
-
